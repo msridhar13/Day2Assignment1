@@ -1,0 +1,7 @@
+#Input from the output console
+iNumber=input("Please enter the comma separated Number to convert the List")
+
+print("Before converting list",iNumber)
+
+print("After converting into List")
+iNumber.split(",")
